@@ -1,3 +1,12 @@
+# Slide
+
+An ecommerce website that sells trendy sustainable sneakers!\
+Based on one of my favorite shoe brands, [Allbirds] (https://www.allbirds.com/)
+
+My goal is to use this project to teach myself React.\
+I also wanted to learn more about the UX/design process.\
+You can find all of the mockups and design docs on [Dribbble](https://dribbble.com/hannaccat)\
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
